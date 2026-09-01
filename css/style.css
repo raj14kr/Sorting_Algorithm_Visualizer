@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  text-align: center;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  padding: 20px;
+}
+
+.array-inputs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding: 10px;
+}
+
+input[type="range"] {
+  width: 150px;
+}
+
+#array_container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 400px;
+  margin: 20px;
+  gap: 2px;
+}
+
+.array-bar {
+  background-color: white;
+  width: 10px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.algos button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #ffffffcc;
+  border: none;
+  border-radius: 5px;
+}
+
+.algos button:hover {
+  background-color: #dddddd;
+}
