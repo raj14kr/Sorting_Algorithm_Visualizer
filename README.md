@@ -65,7 +65,7 @@ Merge Sort follows the divide-and-conquer approach. It divides the array into sm
 ## 🚀 How to Run the Project
 
 1. Clone this repository:
-
+     https://github.com/raj14kr/Sorting_Algorithm_Visualizer
 2. Open the downloaded project folder.
 3. Open `index.html` in your web browser.
 4. Adjust the array size and sorting speed.
